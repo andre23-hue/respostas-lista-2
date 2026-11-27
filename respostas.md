@@ -1,4 +1,4 @@
-# Respostas de André Leal Manso
+# Respostas 
 
 # Exercício 01
 ```c
